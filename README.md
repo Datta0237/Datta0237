@@ -18,7 +18,7 @@ Enthusiastic aspiring Java back-end developer. Proficient Collaborative and Hard
 
 
 - 🌱 I’m currently learning ...Spring Boot
-- 👨‍💻 Checkout my portfolio [My portfolio](https://datta0237.github.io/)
+- 👨‍💻 Checkout my portfolio [My portfolio](https://github.com/Datta0237/Datta0237.github.io)
 - 💬 Ask me about ...Java, Spring Boot, Javascript, Hibernate
 
 
