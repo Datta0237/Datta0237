@@ -1,5 +1,9 @@
 # Hi, I'm Dattatray Patil! 👋
 
+![Datta](https://komarev.com/ghpvc/?username=your-github-Datta0237)
+
+
+
 
 ## 🚀 About Me
 Enthusiastic aspiring Java back-end developer. Proficient Collaborative and Hard-Working Team player. Interested in Data Structure & Algorithm. Good in solving DSA problems. have good knowledge of Javascript & Java language and Back-end tech stack. Passionate about coding and interested in working in a product-based company.  
