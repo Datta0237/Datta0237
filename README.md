@@ -1,6 +1,12 @@
 # Hi, I'm Dattatray Patil! 👋
 
 
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
+</p>
+
+
 ## 🚀 About Me
 Enthusiastic aspiring Java back-end developer. Proficient Collaborative and Hard-Working Team player. Interested in Data Structure & Algorithm. Good in solving DSA problems. have good knowledge of Javascript & Java language and Back-end tech stack. Passionate about coding and interested in working in a product-based company.  
 
@@ -25,6 +31,19 @@ Enthusiastic aspiring Java back-end developer. Proficient Collaborative and Hard
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://datta0237.github.io/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dattatray-patil-446502125/)
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
+
+## GitHub streak stats
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Datta0237&theme=shades-of-purple&animation=fadeIn)](https://git.io/streak-stats)
+
+## GitHub top languages 
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Datta0237"/>
+
+## GitHub stats card
+
+![Datta's GitHub stats](https://github-readme-stats.vercel.app/api?username=Datta0237&count_private=true?type=rounded&color=gradient&text=%20asdf%20&height=300&fontSize=100&textBg=true)
+
+
 
 - 😄 Pronouns: ...Datta
 
