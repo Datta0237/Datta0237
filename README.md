@@ -1,12 +1,6 @@
 # Hi, I'm Dattatray Patil! 👋
 
 
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
-</p>
-
-
 ## 🚀 About Me
 Enthusiastic aspiring Java back-end developer. Proficient Collaborative and Hard-Working Team player. Interested in Data Structure & Algorithm. Good in solving DSA problems. have good knowledge of Javascript & Java language and Back-end tech stack. Passionate about coding and interested in working in a product-based company.  
 
