@@ -31,7 +31,7 @@ Enthusiastic aspiring Java back-end developer. Proficient Collaborative and Hard
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
 
 ## GitHub streak stats
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Datta0237&theme=shades-of-purple&animation=fadeIn)](https://git.io/streak-stats)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Datta0237&theme=shades-of-purple&animation=fadeIn)
 
 ## GitHub top languages 
 
